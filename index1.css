@@ -1,0 +1,23 @@
+
+body{
+    margin: 0;
+     background-color: rgb(2, 137, 247);
+     text-align: center;
+    }
+     h1{ color: #FFFF;
+    }
+    .flex-container{
+        padding: 0.25em;
+        margin: 0 auto;
+        max-width: 700px;
+        border: 10px solid yellow;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .flex-item{
+         background-color: rgba(75, 245, 33, 0.856);
+          padding: 0.5em;
+           margin: 0.5em;
+            color: rgb(4, 30, 109);
+             width: 300px;
+    }
